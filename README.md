@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Blazor. .Net 9 Blazor server to be precise.
+I'm currently studying Blazor.
 
 
 # 💻 Tech Stack:
